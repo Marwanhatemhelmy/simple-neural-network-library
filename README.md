@@ -5,7 +5,7 @@
 
 ### for piema indians diabetes dataset :
 
-layers structure = [8 -> 120 -> 1]
+`layers structure` = [8 -> 120 -> 1]
 
 (100 epochs, relu for hidden layers, sigmoid for output layer, BCE loss function, xavier initializer, adam optimizer)
 
