@@ -1,5 +1,5 @@
 # simple-neural-network-library
-A simple AI library that helps you in creating AI models &amp; simple neural networks.
+**A simple AI library that helps you in creating AI models &amp; simple neural networks.**
 
 this library was tested on both piema indians diabetes dataset and MNIST digits dataset;and
 the results were as follows :
