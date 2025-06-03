@@ -16,13 +16,13 @@
 
 ### for MNIST dataset :
 
-layers structure = [784 -> 120 -> 10]
+**layers structure** = `[784 -> 120 -> 10]`
 
-(5 epochs, relu for hidden layers, cross-entropy loss function, xavier initializer, adam optimizer)
+**training settings** = `[5 epochs, relu for hidden layers, cross-entropy loss function, xavier initializer, adam optimizer]`
 
-avarage accuracy on training dataset (only 1000 samples) = 94%
+**avarage accuracy on training dataset** `(only 1000 samples)` = `94%`
 
-duration on avarage = 17.5 seconds
+**duration on avarage** = `17.5 seconds`
 
 ### constriants :
 
