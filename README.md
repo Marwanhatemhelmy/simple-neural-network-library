@@ -1,10 +1,10 @@
 # simple-neural-network-library
 **A simple AI library that helps you in creating AI models &amp; simple neural networks.**
 
-this library was tested on both piema indians diabetes dataset and MNIST digits dataset;and
+## this library was tested on both piema indians diabetes dataset and MNIST digits dataset;and
 the results were as follows :
 
-for piema indians diabetes dataset :
+### for piema indians diabetes dataset :
 
 layers structure = [8 -> 120 -> 1]
 
@@ -15,7 +15,7 @@ avarage accuracy on training dataset = 95%
 duration on avarage = 3.7 seconds
 
 
-for MNIST dataset :
+### for MNIST dataset :
 
 layers structure = [784 -> 120 -> 10]
 
