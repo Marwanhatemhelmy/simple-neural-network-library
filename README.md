@@ -24,5 +24,6 @@ avarage accuracy on training dataset (only 1000 samples) = 94%
 
 duration on avarage = 17.5 seconds
 
-constriants :
+### constriants :
+
 only supports double datatypes (float64) for tensors
