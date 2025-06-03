@@ -9,9 +9,9 @@
 
 (100 epochs, relu for hidden layers, sigmoid for output layer, BCE loss function, xavier initializer, adam optimizer)
 
-*avarage accuracy on training dataset* = `95%`
+**avarage accuracy on training dataset** = `95%`
 
-*duration on avarage* = `3.7 seconds`
+**duration on avarage** = `3.7 seconds`
 
 
 ### for MNIST dataset :
