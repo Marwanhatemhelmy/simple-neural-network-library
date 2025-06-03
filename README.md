@@ -26,4 +26,4 @@
 
 ### constriants :
 
-`_only supports double datatypes (float64) for tensors_`
+_only supports double datatypes (float64) for tensors_
